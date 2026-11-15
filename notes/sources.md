@@ -1,0 +1,24 @@
+# DocQA document sources
+
+| File | Title | URL | Published |
+| --- | --- | --- | --- |
+| 2026-11_flood_tajikistan_dref-update.pdf | Tajikistan Flood 2026: DREF Operational Update (MDRTJ038) | https://reliefweb.int/report/tajikistan/tajikistan-flood-2026-dref-operational-update-mdrtj038 | 2026-11-11 |
+| 2026-11_flood_nepal_sitrep.pdf | UNFPA Situation Report on Nepal Floods (1 October – 3 November 2026) | https://reliefweb.int/report/nepal/unfpa-situation-report-nepal-floods-1-october-3-november-2026 | 2026-11-11 |
+| 2026-11_flood_nigeria_sitrep.pdf | Nigeria: Borno, Adamawa, and Yobe (BAY) states - Quarter 3 Situation Report, July - September 2026 | https://reliefweb.int/report/nigeria/nigeria-borno-adamawa-and-yobe-bay-states-quarter-3-situation-report-july-september-2026 | 2026-11-10 |
+| 2026-11_flood_south-sudan_sitrep.pdf | UNICEF South Sudan Humanitarian Situation Report No. 8, 1-30 September 2026 | https://reliefweb.int/report/south-sudan/unicef-south-sudan-humanitarian-situation-report-no-8-1-30-september-2026 | 2026-11-09 |
+| 2026-11_flood_burundi_dref-update.pdf | Burundi Flood Imminent Crisis 2026 - Imminent DREF Operation (MDRBI028) | https://reliefweb.int/report/burundi/burundi-flood-imminent-crisis-2026-imminent-dref-operation-mdrbi028 | 2026-11-09 |
+| 2026-11_cyclone_dominican-republic_dref-final.pdf | Dominican Republic: Hurricane Melissa - DREF Final Report (MDRDO019) | https://reliefweb.int/report/dominican-republic/dominican-republic-hurricane-melissa-dref-final-report-mdrdo019 | 2026-11-09 |
+| 2026-11_flood_cambodia_sitrep.pdf | World Vision Situation Report #5: Humanitarian Response to Flooding (31 October 2026) | https://reliefweb.int/report/cambodia/world-vision-situation-report-5-humanitarian-response-flooding-31-october-2026 | 2026-11-06 |
+| 2026-11_flood_bangladesh_sitrep.pdf | UNICEF Bangladesh Humanitarian Situation Report No. 76 - 30 September 2026 | https://reliefweb.int/report/bangladesh/unicef-bangladesh-humanitarian-situation-report-no-76-30-september-2026 | 2026-11-05 |
+| 2026-11_flood_afghanistan_sitrep.pdf | UNICEF Afghanistan Humanitarian Situation Report No. 9, 1-30 September 2026 | https://reliefweb.int/report/afghanistan/unicef-afghanistan-humanitarian-situation-report-no-9-1-30-september-2026 | 2026-11-04 |
+| 2026-11_flood_lao-pdr_dref-update.pdf | Lao People's Democratic Republic: Flood 2026 - DREF Operational Update (MDRLA012) | https://reliefweb.int/report/lao-peoples-democratic-republic/lao-peoples-democratic-republic-flood-2026-dref-operational-update-mdrla012 | 2026-11-02 |
+| 2026-11_flood_north-macedonia_dref-final.pdf | North Macedonia Flood 2026 - DREF Final Report (MDRMK011) | https://reliefweb.int/report/republic-north-macedonia/north-macedonia-flood-2026-dref-final-report-mdrmk011 | 2026-11-02 |
+| 2026-10_flood_kenya_dref-update.pdf | Kenya Flood 2026 - Imminent DREF Operation (MDRKE074) | https://reliefweb.int/report/kenya/kenya-flood-2026-imminent-dref-operation-mdrKE074 | 2026-10-30 |
+| 2026-10_flood_bolivia_dref-final.pdf | Bolivia Pluvial/Flash Flood 2025 - DREF Final Report (MDRBO020) | https://reliefweb.int/report/bolivia-plurinational-state/bolivia-pluvialflash-flood-2025-dref-final-report-mdrbo020 | 2026-10-29 |
+| 2026-10_flood_viet-nam_dref-final.pdf | Viet Nam Monsoon Flood 2025 - DREF Final Report (MDRVN025) | https://reliefweb.int/report/viet-nam/viet-nam-monsoon-flood-2025-dref-final-report-mdrvn025 | 2026-10-29 |
+| 2026-10_flood_tanzania_dref-final.pdf | Tanzania: Floods in Morogoro DREF Final Operation (MDRTZ043) | https://reliefweb.int/report/united-republic-tanzania/tanzania-floods-morogoro-dref-final-operation-mdrtz043 | 2026-10-29 |
+| 2026-10_flood_ethiopia_dref-final.pdf | Ethiopia \| Landslides and Floods - Final Report (MDRET036) | https://reliefweb.int/report/ethiopia/ethiopia-landslides-and-floods-final-report-mdret036 | 2026-10-28 |
+| 2026-10_flood_congo_dref-update.pdf | Congo Likouala Flood 2026 - DREF Operation (MDRCG030) | https://reliefweb.int/report/congo/congo-likouala-flood-2026-dref-operation-mdrcg030 | 2026-10-25 |
+| 2026-10_flood_ecuador_dref-update.pdf | Ecuador ENSO Floods 2026 - Imminent DREF Operation (MDREC032) | https://reliefweb.int/report/ecuador/ecuador-enso-floods-2026-imminent-dref-operation-mdrec032 | 2026-10-20 |
+| 2026-10_flood_dr-congo_dref-update.pdf | Democratic Republic of Congo Flood 2026 - DREF Operational Update (MDRCD050), 16 October 2026 | https://reliefweb.int/report/democratic-republic-congo/democratic-republic-congo-flood-2026-dref-operational-update-mdrcd050-16-october-2026 | 2026-10-16 |
+| 2026-10_flood_rwanda_dref-update.pdf | Rwanda \| Flood - Simplified Early Action Protocol: Activation (EAP No.: sEAP2025RW01, Operation No.: MDRRW026), 13 October 2026 | https://reliefweb.int/report/rwanda/rwanda-flood-simplified-early-action-protocol-activation-eap-no-seap2025rw01-operation-no-mdrrw026-13-october-2026 | 2026-10-15 |
